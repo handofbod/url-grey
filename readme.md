@@ -1,0 +1,1 @@
+This is an Opera extension I'm developing, mainly as a hobby but also so I can learn some new dev skills.
