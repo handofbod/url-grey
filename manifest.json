@@ -7,8 +7,19 @@
 	"icons": {
 	  "16": "icon.png"
 	},
+
 	"background": {
 		"persistent": false,
-		"scripts": ["background.js"]
+		"scripts": ["reddit.js"]
 	}
+	//"name": "UrlGrey for Youtube",
+	//"version": "1.0",
+	//"omnibox": { "keyword" : "y" },
+	//"icons": {
+//		"16": "snoo.png"
+//	},
+
+//	"background": {
+//		"persistent": false,
+//		"scripts": ["youtube.js"]
 }
