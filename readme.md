@@ -19,4 +19,5 @@ To install:
 
 Usage: 
 
-	In the address bar, type an "r" followed by a space.  You can now type the name of the subreddit you would like to visit.
+	In the address bar, type an "r" followed by a space.  
+	You can now type the name of the subreddit you would like to visit.
