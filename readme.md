@@ -12,11 +12,14 @@ This is an Opera extension I'm developing, mainly as a hobby but also so I can l
 To install:
 	
 
-Open up the extensions menu <a href="opera://extensions">Click here for Opera</a>
+Open up the extensions menu:
 
-[Click here for Opera](opera://extensions)
+    [Click here for Opera](opera://extensions)
+    
+    <a href="opera://extensions">click</a>
 
-[Click here for Chrome](chrome://extensions in Chrome)
+    [Click here for Chrome](chrome://extensions in Chrome)
+
 
 Enable developer mode.
 
