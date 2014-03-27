@@ -13,6 +13,7 @@ To install:
 	
 Open up the extensions menu 
 [Click here for Opera](opera://extensions)
+
 [Click here for Chrome](chrome://extensions in Chrome)
 
 Enable developer mode.
