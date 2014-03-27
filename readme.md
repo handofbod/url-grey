@@ -11,7 +11,7 @@ This is an Opera extension I'm developing, mainly as a hobby but also so I can l
 
 To install:
 	
-	Open up the extensions menu (crtl+shift+e with Opera, chrome://extensions in Chrome)
+	Open up the extensions menu <a href="opera://extensions">Click here for Opera</a>
 
 	Enable developer mode.
 
