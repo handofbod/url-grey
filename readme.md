@@ -11,13 +11,18 @@ This is an Opera extension I'm developing, mainly as a hobby but also so I can l
 
 To install:
 	
-	Open up the extensions menu <a href="opera://extensions">Click here for Opera</a>
 
-	Enable developer mode.
+Open up the extensions menu <a href="opera://extensions">Click here for Opera</a>
 
-	Choose "Load unpacked extension" and locate to directory where the extension is located.
+[Click here for Opera](opera://extensions)
+
+[Click here for Chrome](chrome://extensions in Chrome)
+
+Enable developer mode.
+
+Choose "Load unpacked extension" and locate to directory where the extension is located.
 
 Usage: 
 
-	In the address bar, type an "r" followed by a space.  
-	You can now type the name of the subreddit you would like to visit.
+In the address bar, type an "r" followed by a space.  
+You can now type the name of the subreddit you would like to visit.
