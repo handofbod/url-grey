@@ -10,16 +10,8 @@
 
 	"background": {
 		"persistent": false,
-		"scripts": ["reddit.js"]
-	}
-	//"name": "UrlGrey for Youtube",
-	//"version": "1.0",
-	//"omnibox": { "keyword" : "y" },
-	//"icons": {
-//		"16": "snoo.png"
-//	},
+		"scripts": ["background.js"]
 
-//	"background": {
-//		"persistent": false,
-//		"scripts": ["youtube.js"]
+	},
+
 }
