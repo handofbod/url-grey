@@ -16,7 +16,6 @@ To install:
 
     Navigate to "opera://extensions" for Opera
     
-    ~~or "chrome://extensions" for Chrome~~
     Having issues with Chrome at the moment.
     
     Enable developer mode.
