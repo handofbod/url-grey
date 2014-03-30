@@ -26,6 +26,6 @@
 	"background": {
 		"peristent": false,
 		"scripts": ["youtube.js"]
-	}.
+	},
 	
 }
