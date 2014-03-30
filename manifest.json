@@ -13,7 +13,8 @@
 		"scripts": ["background.js"]
 
 	},
-	{"manifest_version": 2,
+	
+	"manifest_version": 2,
 	
 	"name": "UrlGrey for YouTube",
 	"version": "1.0",
