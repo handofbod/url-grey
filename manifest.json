@@ -23,4 +23,9 @@
 		"16": "youtube.png"
 	},
 	
+	"background": {
+		"peristent": false,
+		"scripts": ["youtube.js"]
+	}.
+	
 }
